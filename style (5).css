@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@1,900&display=swap');
+.box img{
+
+	border: solid 5px white;
+
+	background-color: black;
+	color:white;
+}
+.box {
+	display: flex;
+}
+.header {
+	text-align: center;
+}
+body{
+
+
+
+	font-family: 'Lato', sans-serif;
+}
+.header {
+	background-color: black;
+}
+.content {
+	background-image: url("https://minecraftmonster.ru/uploads/posts/2018-05/thumbs/1526839542_cool-ocean-seed-3.jpg");
+}
+.footer {
+	background-color: black;
+	height: 100px;
+}
+h1{
+	color :blue;
+}
+img{
+	border: solid 5px lime;
+}
